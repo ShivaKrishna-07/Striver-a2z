@@ -1,4 +1,5 @@
 
+// Flaten Binary tree to Linkedlist
 
 void flatten(TreeNode *root)
 {
